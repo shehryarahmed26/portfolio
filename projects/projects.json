@@ -1,0 +1,92 @@
+[
+  {
+    "name": "CarShowroom Web",
+    "desc": "build a carshowroom web using html, css and javascript",
+    "image": "carweb",
+    "category": "javascript",
+    "links": {
+      "view": "https://carsbuy-showroom.netlify.app/",
+      "code": "https://github.com/shehryarahmed26/carsbuy-showroom-webapp"
+    }
+  },
+  {
+    "name": "Weatherapp",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "weatherapp",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "build a live weather app which show any country, city current weather, using html, css, javascript & weatherapi",
+    "image": "weatherapp",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Todo App",
+    "desc": "build a todo app, using html, css & javascript.",
+    "image": "todo",
+    "category": "javascript",
+    "links": {
+      "view": "https://to-do-app-by-sh.netlify.app/",
+      "code": "https://github.com/shehryarahmed26/To-do-app-js"
+    }
+  },
+  {
+    "name": "Github user finder",
+    "desc": "build a github user finder which find any user on the github, using github api, html css & javascript.",
+    "image": "gitfinder",
+    "category": "javascript",
+    "links": {
+      "view": "https://github-user-finder-sh.netlify.app/",
+      "code": "https://github.com/shehryarahmed26/Github-user-finder"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "build a calculator which perform all the operational tasks, using html, css & javascript.",
+    "image": "calculator",
+    "category": "javascript",
+    "links": {
+      "view": "https://shehryar-digital-clock-js.netlify.app/",
+      "code": "https://github.com/shehryarahmed26/Digital-Clock-js"
+    }
+  },
+  {
+    "name": "Digital Clock",
+    "desc": "build a digital clock which shows current time date and day, using html, css and javascript.",
+    "image": "clock",
+    "category": "javascript",
+    "links": {
+      "view": "https://calculator-by-shehryar.netlify.app/",
+      "code": "https://github.com/shehryarahmed26/Calculator-js"
+    }
+  }
+  ]
